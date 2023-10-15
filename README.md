@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamed Amraoui</h1>
+
+<br />
+<br />
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
+
+<br />
+
 <h3 align="center">I'm currently pursuing a Master's degree in Computer Science, experienced in web development, with strong problem-solving skills and quick learning ability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamed-amraoui&label=Profile%20views&color=0e75b6&style=flat" alt="hamed-amraoui" /> </p>
@@ -31,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamed-amraoui&show_icons=true&locale=en" alt="hamed-amraoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-amraoui&" alt="hamed-amraoui" /></p>
+
