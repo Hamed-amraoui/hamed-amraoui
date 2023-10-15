@@ -6,6 +6,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
 <br />
+<br />
+<br />
 
 <h3 align="center">I'm currently pursuing a Master's degree in Computer Science, experienced in web development, with strong problem-solving skills and quick learning ability.</h3>
 
