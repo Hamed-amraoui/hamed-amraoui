@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamed_amraoui_" target="blank"><img src="https://img.shields.io/twitter/follow/hamed_amraoui_?logo=twitter&style=for-the-badge" alt="hamed_amraoui_" /></a> </p>
 
-- 🌱 I’m currently learning **Nest.js and Golang(Go)**
+- 🌱 I’m currently learning **Next.js and Golang(Go)**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-phi-sandy.vercel.app/](https://myportfolio-phi-sandy.vercel.app/)
 
