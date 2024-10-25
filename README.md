@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js and Golang(Go)**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-phi-sandy.vercel.app/](https://hamed-amraoui.vercel.app/))
+- 👨‍💻 All of my projects are available at [(https://hamed-amraoui.vercel.app/)]
 
 - 💬 Ask me about **React.js, Next.js and Express.js**
 
